@@ -1,9 +1,9 @@
 <html>
-<title> LA SA PRO ELB/ASG DEMO </title>
+<title> AWS AA-ELB-CF </title>
 <body>
 <h1>
 <center>
-<IMG SRC="omg.jpg" ALT="omg"><br>
+<IMG SRC="awscloud.jpg" ALT="awscloud"><br>
 <?php
 echo $_SERVER['SERVER_ADDR'];
 ?>
